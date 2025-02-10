@@ -11,6 +11,7 @@ This circuit is a bridge rectifier built using four diodes (1N1183) and a resist
 
 The diodes are arranged in a bridge configuration to allow both halves of the AC cycle to be rectified.
 The simulation results confirm the expected rectified waveform.
+
 How to Use
 Open the .TSC files in TINA-TI to view or modify the circuits.
 Run the transient analysis to observe the waveforms.
